@@ -843,7 +843,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 为天使护航,http://gcksc.v.kcdnvip.com/gc/zsslsfwsgz_1/index.m3u8
 为天使护航,http://gcbsc.v.live.baishancdnx.cn/gc/zsslsfwsgz_1/index.m3u8
 
-美网第2天,#https://yi.tips/TV/2023/mw2day.m3u#
+美网第2天,#genre#https://yi.tips/TV/2023/mw2day.m3u
 美网第3天,#https://yi.tips/TV/2023/mw3day.m3u#
 美网第4天,#https://yi.tips/TV/2023/mw4day.m3u#
 美网第5天,https://yi.tips/TV/2023/mw5day.m3u
